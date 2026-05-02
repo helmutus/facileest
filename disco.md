@@ -1,68 +1,87 @@
-## CAP XIX
+# CAP XIX
 
-### Vocâbula nova
+## Vocābula nova
 
-uxor
-maritus
+* uxor =
+* maritus =
+* virgo =
+* columna =
+* signum =
+* tectum =
+* dea =
+* coniūnx =
+* mātrōna =
+* amor =
+* pulchritūdo =
+* adulēscēns =
 
-virgo
+⸻
 
-columna
-signum
-téctum
+* domus =
+* templum =
+* forum =
 
-dea
-coniünx
-mätrôna
+⸻
 
-amor
-pulchritudo
-adulescens
+* dōnum =
+* flōs =
 
+⸻
 
-domus
-templum
-forum
+* melior =
+* peior =
+* optimus =
+* pessimus =
+* māior =
+* minor =
 
-dõnum
-flõs
+⸻
 
-melior
-peior
-optimus
-pessimus
-mãior
-minor
+* māximus =
+* minimus =
+* magnificus =
 
-mãximus
-minimus
-magnificus
+⸻
 
-plúrés
-plurimi
-dives
-pauper
-miser
-beatus
-dignus
-gracilis
-convenire
-possidère
-mittere
-remittere
-ösculari
-minuere
-augere
-opus esse
-mi
-allus
-tamen
-cotidie
+* plūrēs =
+* plūrimi =
+* dīves =
+* pauper =
+* miser =
+* beātus =
+* dignus =
+* gracilis =
 
-minus
-plus
+⸻
 
-erga
+* convenīre =
+* possidēre =
+* mittere =
+* remittere =
+* ōsculārī =
+* minuere =
+* augēre =
+* opus esse =
 
-praesens
-praeteritum
+⸻
+
+* mī =
+* alius =
+* tamen =
+* cotīdiē =
+
+⸻
+
+* minus =
+* plus =
+
+⸻
+
+* erga =
+
+⸻
+
+* praesēns =
+* praeteritum =
+
+⸻
