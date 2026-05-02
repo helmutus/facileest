@@ -1,106 +1,104 @@
-#CAP XIX
+## CAP XIX
 
-Vocābula nova
+### Vocābula nova
 
-* uxor, uxōris f. = Ehefrau
-* marītus, marītī m. = Ehemann
-* virgo, virginis f. = Jungfrau, Mädchen
-* columna, columnae f. = Säule
-* signum, signī n. = Zeichen, Statue
-* tectum, tectī n. = Dach, Haus
-* dea, deae f. = Göttin
-* coniūnx, coniugis c. = Ehepartner
-* mātrōna, mātrōnae f. = verheiratete Frau
-* amor, amōris m. = Liebe
-* pulchritūdō, pulchritūdinis f. = Schönheit
-* adulēscēns, adulēscentis c. = Jugendlicher
+- **uxor, uxōris f.** = Ehefrau  
+- **marītus, marītī m.** = Ehemann  
 
-⸻
+- **virgo, virginis f.** = Jungfrau, Mädchen  
 
-* domus, domūs f. = Haus (teils auch n.)
-* templum, templī n. = Tempel
-* forum, forī n. = Marktplatz
+- **columna, columnae f.** = Säule  
+- **signum, signī n.** = Zeichen, Statue  
+- **tectum, tectī n.** = Dach, Haus  
 
-⸻
+- **dea, deae f.** = Göttin  
+- **coniūnx, coniugis c.** = Ehepartner  
+- **mātrōna, mātrōnae f.** = verheiratete Frau  
 
-* dōnum, dōnī n. = Geschenk
-* flōs, flōris m. = Blume
+- **amor, amōris m.** = Liebe  
+- **pulchritūdō, pulchritūdinis f.** = Schönheit  
+- **adulēscēns, adulēscentis c.** = Jugendlicher  
 
-⸻
+---
 
-Steigerungen
+- **domus, domūs f.** = Haus (Zuhause)  
+- **templum, templī n.** = Tempel  
+- **forum, forī n.** = Marktplatz  
 
-* melior, melius = besser
-* peior, peius = schlechter
-* optimus, -a, -um = bester
-* pessimus, -a, -um = schlechtester
-* maior, maius = größer
-* minor, minus = kleiner
+---
 
-⸻
+- **dōnum, dōnī n.** = Geschenk  
+- **flōs, flōris m.** = Blume  
 
-* maximus, -a, -um = größter
-* minimus, -a, -um = kleinster
-* magnificus, -a, -um = prächtig, großartig
+---
 
-⸻
+### Steigerungen / Adjektive
 
-Menschen & Eigenschaften
+- **bonus, -a, -um** = gut  
+- **melior, melius** = besser  
+- **optimus, -a, -um** = bester  
 
-* plūrēs (Pl.) = mehrere, viele
-* plūrimi (Pl.) = sehr viele, die meisten
-* dīves, dīvitis c. = reich
-* pauper, pauperis c. = arm
-* miser, misera, miserum = unglücklich
-* beātus, beāta, beātum = glücklich
-* dignus, digna, dignum = würdig
-* gracilis, gracilis, gracile = schlank
+- **malus, -a, -um** = schlecht  
+- **peior, peius** = schlechter  
+- **pessimus, -a, -um** = schlechtester  
 
-⸻
+- **magnus, -a, -um** = groß  
+- **maior, maius** = größer  
+- **maximus, -a, -um** = größter  
 
-Verba (vollständige Stammformen)
+- **parvus, -a, -um** = klein  
+- **minor, minus** = kleiner  
+- **minimus, -a, -um** = kleinster  
 
-* convenīre, convēniō, convēnī, conventum = zusammenkommen, passen
-* possidēre, possideō, possēdī, possessum = besitzen
-* mittere, mittō, mīsī, missum = schicken
-* remittere, remittō, remīsī, remissum = zurückschicken
+- **magnificus, -a, -um** = prächtig, großartig  
 
-⸻
+---
 
-* ōsculārī, ōsculor, ōsculātus sum (Deponens) = küssen
+### Menschen & Eigenschaften
 
-⸻
+- **plūrēs (Pl.)** = mehrere, viele  
+- **plūrimi (Pl.)** = sehr viele, die meisten  
 
-* minuere, minuō, minuī, minūtum = verkleinern
-* augēre, augeō, auxī, auctum = vergrößern
+- **dīves, dīvitis m./f.** = reich  
+- **pauper, pauperis m./f.** = arm  
+- **miser, misera, miserum** = unglücklich  
+- **beātus, beāta, beātum** = glücklich  
+- **dignus, digna, dignum** = würdig  
+- **gracilis, gracilis, gracile** = schlank  
 
-⸻
+---
 
-* opus esse = nötig sein (unpersönlich, ohne Stammformen)
+### Verba (vollständig systematisiert)
 
-⸻
+- **convenīre, convēniō, convēnī, conventum** = zusammenkommen, passen  
+- **possidēre, possideō, possēdī, possessum** = besitzen  
+- **mittere, mittō, mīsī, missum** = schicken  
+- **remittere, remittō, remīsī, remissum** = zurückschicken  
 
-Sonstiges
+- **ōsculārī, ōsculor, ōsculātus sum** *(Deponens)* = küssen  
 
-* mī = mir!
-* alius, alia, aliud = ein anderer
-* tamen = trotzdem
-* cotīdiē = täglich
+- **minuere, minuō, minuī, minūtum** = verkleinern  
+- **augēre, augeō, auxī, auctum** = vergrößern  
 
-⸻
+- **opus esse** = nötig sein (unpersönlich)  
 
-* minus = weniger
-* plus = mehr
+---
 
-⸻
+### Sonstiges
 
-* erga = gegenüber
+- **mī** = mir!  
+- **alius, alia, aliud** = ein anderer  
+- **tamen** = trotzdem  
+- **cotīdiē** = täglich  
 
-⸻
+- **minus** = weniger  
+- **plus** = mehr  
 
-Zeitformen
+- **erga** = gegenüber (in Beziehung zu)  
 
-* praesēns, praesentis n. = Gegenwart
-* praeteritum, praeteritī n. = Vergangenheit
+---
 
-⸻
+### Zeitformen (Begriffe)
+
+- **praesēns, praesentis n.** = Gegenwart  
+- **praeteritum, praeteritī n.** = Vergangenheit  
