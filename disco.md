@@ -5,7 +5,7 @@
 - **uxor, uxōris f.** = Ehefrau  
 - **marītus, marītī m.** = Ehemann  
 
-- **virgo, virginis f.** = Jungfrau, Mädchen  
+- **virgō, virginis f.** = Jungfrau, Mädchen  
 
 - **columna, columnae f.** = Säule  
 - **signum, signī n.** = Zeichen, Statue  
@@ -59,8 +59,8 @@
 - **plūrēs (Pl.)** = mehrere, viele  
 - **plūrimi (Pl.)** = sehr viele, die meisten  
 
-- **dīves, dīvitis m./f.** = reich  
-- **pauper, pauperis m./f.** = arm  
+- **dīves, dīvitis** = reich  
+- **pauper, pauperis** = arm  
 - **miser, misera, miserum** = unglücklich  
 - **beātus, beāta, beātum** = glücklich  
 - **dignus, digna, dignum** = würdig  
