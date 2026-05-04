@@ -92,9 +92,9 @@
 - **cotīdiē** = täglich  
 
 - **minus** = weniger  
-- **plus** = mehr  
+- **plūs** = mehr  
 
-- **erga** = gegenüber (in Beziehung zu)  
+- **ergā** = gegenüber (in Beziehung zu)  
 
 ---
 
