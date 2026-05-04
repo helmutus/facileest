@@ -85,8 +85,8 @@
 ---
 
 ### Sonstiges
-
-- **mī** = mir!  
+ 
+- **mī** – mein! (Anrede, Vokativ von meus)
 - **alius, alia, aliud** = ein anderer  
 - **tamen** = trotzdem  
 - **cotīdiē** = täglich  
