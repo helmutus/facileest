@@ -9,7 +9,7 @@
 
 - **columna, columnae f.** = Säule  
 - **signum, signī n.** = Zeichen, Statue  
-- **tectum, tectī n.** = Dach, Haus  
+- **tēctum, tēctī n.** = Dach, Haus  
 
 - **dea, deae f.** = Göttin  
 - **coniūnx, coniugis c.** = Ehepartner  
